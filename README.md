@@ -11,19 +11,23 @@ Meu principal foco é organizar o conteúdo de forma prática e acessível, para
 ## Como Funciona
 
 Este repositório contém uma série de exercícios em Java com explicações rápidas e diretas para cada um. Você pode seguir as instruções de cada arquivo para entender o problema proposto e a solução. Meu objetivo é simplificar o aprendizado e oferecer uma forma prática de aprimorar habilidades em Java.
+
 ## Como Usar
 
-1. **Clone o repositório:**  
+1. **Clone o repositório:**
+   
    Para começar a usar este repositório, clone-o para sua máquina local:
    ```bash
     git clone https://github.com/seu-usuario/nome-do-repositorio.git
    
-2. **Crie sua própria branch:**
+3. **Crie sua própria branch:**
+   
    Crie uma nova branch:
    ```bash
    git checkout -b nome-da-sua-branch
 
-3. **Adicione seus exercícios ou correções**
+4. **Adicione seus exercícios ou correções**
+   
    Adicione ou modifique os exercícios no repositório local.
    
 5. **Faça commit das suas mudanças:**
